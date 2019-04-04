@@ -1,0 +1,21 @@
+{
+    "name": "yjtec/smscode",
+    "description": "laravel-smscode",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "playhan",
+            "email": "2824643212@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "overtrue/easy-sms": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yjtec\\Smscode": "src/"
+        }
+    }
+}
