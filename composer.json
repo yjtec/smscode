@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Yjtec\\Smscode": "src/"
+            "Yjtec\\Smscode\\": "src/"
         }
     }
 }
